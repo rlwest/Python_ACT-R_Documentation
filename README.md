@@ -6,6 +6,8 @@ Python ACT-R is an implementation of the cognitive architecture ACT-R written in
 
 Having ACT-R agents run in an environment allows for multiple agents to interact and use of Python results in a clean and simple interface to program and run agents. For official introductory tutorials see: https://github.com/rlwest/Python_ACT-R_Tutorials/wiki. For code examples see: https://github.com/rlwest/Learning-Models.
 
+ACT-R information can be found at: http://act-r.psy.cmu.edu/
+
 
 Note:
 This page is a work-in-progress and currently focuses on the python2 version, but will later include python3 and differences between the two versions.
