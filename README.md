@@ -4,8 +4,8 @@ This repository is intended to provide documentation of Python ACT-R to help use
 
 Python ACT-R is an implementation of the cognitive architecture ACT-R written in Python by Terrence C. Stewart and Robert L. West at Carleton University, Canada. It's also a model system packaged into ccmsuite. The system can then run one or more models structured using the ACT-R framework in an environment. The source code can be found here: 
 
-Python 2: https://github.com/tcstewar/ccmsuite.git
-Python 3: https://github.com/sterlingsomers/pythonACTR3
+* Python 2: https://github.com/tcstewar/ccmsuite.git
+* Python 3: https://github.com/sterlingsomers/pythonACTR3
 
 Having ACT-R agents run in an environment allows for multiple agents to interact and use of Python results in a clean and simple interface to program and run agents. For official introductory tutorials see: https://github.com/rlwest/Python_ACT-R_Tutorials/wiki. For code examples see: https://github.com/rlwest/Learning-Models.
 
